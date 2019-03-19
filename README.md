@@ -22,4 +22,3 @@ _Then, type this command to compile the source files_:
 ~~~~
 g++ Main.cpp HighLevelGenetic.cpp LowLevelGenetic.cpp
 ~~~~
-##
